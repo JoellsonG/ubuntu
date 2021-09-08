@@ -1,0 +1,7 @@
+
+#Instalando MariaDB
+sudo apt install mariadb-server -y
+
+
+
+
